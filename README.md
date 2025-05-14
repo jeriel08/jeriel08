@@ -27,10 +27,10 @@
 
 ## 🚀 Featured Projects
 
-### 📦 SmartStock Inventory System
+### 📦 SmartStock Inventory System *(Academic Project - 2025)*
 A comprehensive inventory management system designed for sari-sari stores and small to medium-sized businesses. It features stock tracking, audit logs, supplier and customer management, and a responsive dashboard.
 
-### 🖥️ ByteVault Inventory for Computer Setup
+### 🖥️ ByteVault Inventory for Computer Setup *(Academic Project - 2025)*
 An inventory and tracking system for managing computer setups and parts efficiently. Built to streamline the tracking of hardware components and system builds.
 
 ---
